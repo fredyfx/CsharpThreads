@@ -1,0 +1,5 @@
+C:\Users\Fredy\SkyDrive\Dev\Threads\CsharpThreads\bin\Debug\CsharpThreads.exe
+C:\Users\Fredy\SkyDrive\Dev\Threads\CsharpThreads\bin\Debug\CsharpThreads.pdb
+C:\Users\Fredy\SkyDrive\Dev\Threads\CsharpThreads\obj\Debug\CsharpThreads.csprojResolveAssemblyReference.cache
+C:\Users\Fredy\SkyDrive\Dev\Threads\CsharpThreads\obj\Debug\CsharpThreads.exe
+C:\Users\Fredy\SkyDrive\Dev\Threads\CsharpThreads\obj\Debug\CsharpThreads.pdb
